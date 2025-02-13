@@ -1,0 +1,3 @@
+*.graphql linguist-detectable
+src/locales/*.json linguist-detectable
+quickstart/*.yml linguist-detectable
